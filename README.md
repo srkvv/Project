@@ -1,2 +1,2 @@
 # Project
-Students Live Behaviour Monitoring in online classes Using Aritificial Intelligence
+Students Live Behaviour Monitoring in online classes Using Artificial Intelligence
